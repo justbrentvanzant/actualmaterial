@@ -76,3 +76,5 @@ var eachSub = React.createClass({
     );
   }
 });
+
+export default Sub;
